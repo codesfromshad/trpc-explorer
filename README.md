@@ -1,6 +1,6 @@
-# tRPC Explorer 🔧
-
 ![tRPC Explorer Banner](https://github.com/codesfromshad/trpc-explorer/assets/92628452/e1b9ed74-35ac-44a4-8781-4a1e02c23316)
+
+# tRPC Explorer 🔧
 
 **tRPC Explorer** is a lightweight tool for manually testing your tRPC backend. It provides an intuitive interface for interacting with your tRPC endpoints, making development and debugging easier.
 
