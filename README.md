@@ -1,4 +1,4 @@
-![tRPC Explorer Banner](https://github.com/codesfromshad/trpc-explorer/assets/92628452/e1b9ed74-35ac-44a4-8781-4a1e02c23316)
+![tRPC Explorer Banner](https://github.com/codesfromshad/trpc-explorer/assets/92628452/59a17b02-c5bd-4c2c-b0e7-dc744214df07)
 
 # tRPC Explorer 🔧
 
